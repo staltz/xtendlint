@@ -1,0 +1,20 @@
+#
+# Editors
+#
+
+.idea/
+*.iml
+*.sublime-workspace
+.settings/
+
+#
+# Outputs
+#
+
+target/
+
+#
+# Clojure stuff
+#
+
+.nrepl-port
