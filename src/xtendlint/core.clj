@@ -1,4 +1,4 @@
-(ns xtend-linter.core
+(ns xtendlint.core
   (:require [clojure.tools.cli :refer [parse-opts]]
             [clojure.string :as string])
   (:gen-class)
